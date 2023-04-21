@@ -1,0 +1,18 @@
+db.users.find();
+use app2
+db.users.find({});
+use app2
+db.users.find({});
+db.users.find();
+use app2
+db.users.find();
+show dbs
+use app2
+show dbs
+show collections
+use users
+db.users.find({});
+db.users.find();
+show collections
+use app2
+show dbs
